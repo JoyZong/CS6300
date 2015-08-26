@@ -1,3 +1,5 @@
 this is a new txt file
 
 but I add more thingy
+
+I add line 2
